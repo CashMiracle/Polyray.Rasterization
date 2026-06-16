@@ -8,3 +8,8 @@ Several of the sample files include spheres. They are tesselated into a collecti
 Any convex polygons are converted into a set of triangles. Concave polygons are not handled. The sample files do not have per-vertex normals for triangles or polygons so the same normal-interpolating triangle primitive is used for everything.
 
 Handles polyray keywords for ambient, diffuse, specular, microfacet, and reflection, resulting in the computation of the surface color for a ray. It finds the first intersection along the ray, and returns a weighted sum of the direct illumination from each light and the color.
+
+# Compiling and running
+The build directory contains the rasterization program. This can be run in the terminal using:  
+./Raster input_file.ppm  
+The output of this program is raster.ppm which can be viewed using Gimp. An example output is included in the root directory of this project.
