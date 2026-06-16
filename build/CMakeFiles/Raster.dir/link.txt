@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Raster.dir/src/Light.cpp.o CMakeFiles/Raster.dir/src/Raster.cpp.o CMakeFiles/Raster.dir/src/Sphere.cpp.o CMakeFiles/Raster.dir/src/Surface.cpp.o CMakeFiles/Raster.dir/src/Triangle.cpp.o CMakeFiles/Raster.dir/src/World.cpp.o -o Raster 

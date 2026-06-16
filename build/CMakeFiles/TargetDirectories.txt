@@ -1,0 +1,3 @@
+/home/cash/Downloads/gfx26-assn6/raster/build/CMakeFiles/Raster.dir
+/home/cash/Downloads/gfx26-assn6/raster/build/CMakeFiles/edit_cache.dir
+/home/cash/Downloads/gfx26-assn6/raster/build/CMakeFiles/rebuild_cache.dir
